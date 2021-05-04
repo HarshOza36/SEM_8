@@ -10,7 +10,7 @@
 
 5 . [Study of Platform as a Service](https://github.com/HarshOza36/SEM_8/tree/main/CC/exp5)
 
-6 . [Study Infrastructure as a Service](https://github.com/HarshOza36/SEM_8/blob/main/CC/ex6/Exp6CC.pdf)
+6 . [Study Infrastructure as a Service](https://github.com/HarshOza36/SEM_8/blob/main/CC/exp6/Exp6CC.pdf)
 
 7 . [Case Study on Fog Computing](https://github.com/HarshOza36/SEM_8/blob/main/CC/exp7/Exp7CC.pdf)
 
