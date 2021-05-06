@@ -1,0 +1,18 @@
+Open 3 command prompts in the folder
+Compile all files first
+use "javac filename.java" for all file names
+
+CMD 1
+Then use "rmic remote_filename" In our case CalcRemote
+Now we have to start rmi registry
+use "rmiregistry" for that in cli
+
+CMD 2
+run server
+java server_file_class
+
+CMD 3
+run client
+java client_file_class
+
+Output will be found in CMD3 where client will be running
