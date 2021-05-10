@@ -5,6 +5,6 @@ Computer Engineering Semester 8 Practicals codes for all Subjects
 
 2. [Distributed Computing Lab (DC)](https://github.com/HarshOza36/SEM_8/tree/main/DC)
 
-3. [Human Machine Interaction Lab (HMI)]()
+3. [Human Machine Interaction Lab (HMI)](https://github.com/HarshOza36/SEM_8/tree/main/HMI)
 
 4. [Natural Language Processing Lab (NLP)]()
