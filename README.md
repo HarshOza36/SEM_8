@@ -7,4 +7,4 @@ Computer Engineering Semester 8 Practicals codes for all Subjects
 
 3. [Human Machine Interaction Lab (HMI)](https://github.com/HarshOza36/SEM_8/tree/main/HMI)
 
-4. [Natural Language Processing Lab (NLP)]()
+4. [Natural Language Processing Lab (NLP)](https://github.com/HarshOza36/SEM_8/tree/main/NLP)
